@@ -1,2 +1,7 @@
-# communication-non-ip
-Le projet esquissé explore une stratégie d’adressage non conventionnelle, couplée à un modèle distribué et à des interactions modulables avec des couches de transport existantes.  Aucun schéma, algorithme ni détail technique n'est exposé. Tout développement ou information complémentaire est strictement réservé à un cadre confidentiel.
+# Note de concept (2025)
+
+Ce dépôt contient une trace publique d’un concept de communication alternative, basé sur un modèle distribué non conventionnel.  
+Le contenu technique est volontairement restreint. Voir SHA-256 pour traçabilité.
+
+Date d'ancrage : Mai 2025  
+Empreinte : 4e68821741c2c3d245a582b8c563ceb83d4bf8a2116de2cb5634b4451e52cc3f
